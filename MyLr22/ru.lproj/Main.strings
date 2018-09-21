@@ -1,0 +1,78 @@
+/* Class = "UILabel"; text = "Input is free?"; ObjectID = "0yV-R1-49a"; */
+"0yV-R1-49a.text" = "Вход свободный?";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "6NO-Ik-sto"; */
+"6NO-Ik-sto.text" = "Дата и Время";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "8Hz-4m-djP"; */
+"8Hz-4m-djP.text" = "Название";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "BiX-03-5aa"; */
+"BiX-03-5aa.normalTitle" = "Подтвердить";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "DHu-IJ-ZLK"; */
+"DHu-IJ-ZLK.text" = "Дата и Время";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "FNV-CI-I1u"; */
+"FNV-CI-I1u.text" = "Описание";
+
+/* Class = "UIViewController"; title = "Add New Meet"; ObjectID = "G87-Yp-uEM"; */
+"G87-Yp-uEM.title" = "Добавить новую встречу";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Gi9-UM-tgp"; */
+"Gi9-UM-tgp.normalTitle" = "Отменить";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "IIY-44-V7B"; */
+"IIY-44-V7B.text" = "Описание";
+
+/* Class = "UINavigationItem"; title = "Categories"; ObjectID = "KsH-4t-A7K"; */
+"KsH-4t-A7K.title" = "Категории";
+
+/* Class = "UINavigationItem"; title = "Update Meet"; ObjectID = "NFU-5A-Ljd"; */
+"NFU-5A-Ljd.title" = "Обновить встречу";
+
+/* Class = "UINavigationItem"; title = "Update Meet"; ObjectID = "PAP-d7-mq6"; */
+"PAP-d7-mq6.title" = "Обновить встречу";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "PB6-4L-tAO"; */
+"PB6-4L-tAO.text" = "Название";
+
+/* Class = "UIButton"; normalTitle = "Choose Category"; ObjectID = "QiH-eD-X7x"; */
+"QiH-eD-X7x.normalTitle" = "Выберите категорию";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "RUv-CD-b1Q"; */
+"RUv-CD-b1Q.text" = "Описание";
+
+/* Class = "UITabBarItem"; title = "Meets"; ObjectID = "Utc-fu-Zag"; */
+"Utc-fu-Zag.title" = "Встречи";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Zp6-K4-qBV"; */
+"Zp6-K4-qBV.normalTitle" = "Отменить";
+
+/* Class = "UINavigationItem"; title = "Meets"; ObjectID = "al1-k6-Bcd"; */
+"al1-k6-Bcd.title" = "Встречи";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "bNR-5E-RHz"; */
+"bNR-5E-RHz.text" = "Категории";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "eeS-HJ-u7f"; */
+"eeS-HJ-u7f.text" = "Дата и Время";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ks3-bu-cKK"; */
+"ks3-bu-cKK.text" = "Название";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oOf-Ei-r46"; */
+"oOf-Ei-r46.normalTitle" = "Подтвердить";
+
+/* Class = "UILabel"; text = "Input is Free?"; ObjectID = "qdN-LR-qod"; */
+"qdN-LR-qod.text" = "Вход свободный?";
+
+/* Class = "UITabBarItem"; title = "Category"; ObjectID = "rP5-9T-tLz"; */
+"rP5-9T-tLz.title" = "Категории";
+
+/* Class = "UIButton"; normalTitle = "Choose Category"; ObjectID = "rSw-XJ-oEu"; */
+"rSw-XJ-oEu.normalTitle" = "Выберите категорию";
+
+/* Class = "UILabel"; text = "Input is Free?"; ObjectID = "wsh-z2-43w"; */
+"wsh-z2-43w.text" = "Вход свободный?";
+

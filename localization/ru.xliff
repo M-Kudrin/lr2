@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="MyLr22/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+    </header>
+    <body/>
+  </file>
+  <file original="MyLr22/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+    </header>
+    <body>
+      <trans-unit id="0yV-R1-49a.text">
+        <source>Input is free?</source>
+        <target>Вход свободный?</target>
+        <note>Class = "UILabel"; text = "Input is free?"; ObjectID = "0yV-R1-49a";</note>
+      </trans-unit>
+      <trans-unit id="6NO-Ik-sto.text">
+        <source>Date</source>
+        <target>Дата и Время</target>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "6NO-Ik-sto";</note>
+      </trans-unit>
+      <trans-unit id="8Hz-4m-djP.text">
+        <source>Name</source>
+        <target>Название</target>
+        <note>Class = "UILabel"; text = "Name"; ObjectID = "8Hz-4m-djP";</note>
+      </trans-unit>
+      <trans-unit id="BiX-03-5aa.normalTitle">
+        <source>Ok</source>
+        <target>Подтвердить</target>
+        <note>Class = "UIButton"; normalTitle = "Ok"; ObjectID = "BiX-03-5aa";</note>
+      </trans-unit>
+      <trans-unit id="DHu-IJ-ZLK.text">
+        <source>Date</source>
+        <target>Дата и Время</target>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "DHu-IJ-ZLK";</note>
+      </trans-unit>
+      <trans-unit id="FNV-CI-I1u.text">
+        <source>Description</source>
+        <target>Описание</target>
+        <note>Class = "UILabel"; text = "Description"; ObjectID = "FNV-CI-I1u";</note>
+      </trans-unit>
+      <trans-unit id="G87-Yp-uEM.title">
+        <source>Add New Meet</source>
+        <target>Добавить новую встречу</target>
+        <note>Class = "UIViewController"; title = "Add New Meet"; ObjectID = "G87-Yp-uEM";</note>
+      </trans-unit>
+      <trans-unit id="Gi9-UM-tgp.normalTitle">
+        <source>Button</source>
+        <target>Подтвердить</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "Gi9-UM-tgp";</note>
+      </trans-unit>
+      <trans-unit id="IIY-44-V7B.text">
+        <source>Description</source>
+        <target>Описание</target>
+        <note>Class = "UILabel"; text = "Description"; ObjectID = "IIY-44-V7B";</note>
+      </trans-unit>
+      <trans-unit id="KsH-4t-A7K.title">
+        <source>Categories</source>
+        <target>Категории</target>
+        <note>Class = "UINavigationItem"; title = "Categories"; ObjectID = "KsH-4t-A7K";</note>
+      </trans-unit>
+      <trans-unit id="NFU-5A-Ljd.title">
+        <source>Update Meet</source>
+        <target>Обновить встречу</target>
+        <note>Class = "UINavigationItem"; title = "Update Meet"; ObjectID = "NFU-5A-Ljd";</note>
+      </trans-unit>
+      <trans-unit id="PAP-d7-mq6.title">
+        <source>Update Meet</source>
+        <target>Обновить встречу</target>
+        <note>Class = "UINavigationItem"; title = "Update Meet"; ObjectID = "PAP-d7-mq6";</note>
+      </trans-unit>
+      <trans-unit id="PB6-4L-tAO.text">
+        <source>Name</source>
+        <target>Название</target>
+        <note>Class = "UILabel"; text = "Name"; ObjectID = "PB6-4L-tAO";</note>
+      </trans-unit>
+      <trans-unit id="QiH-eD-X7x.normalTitle">
+        <source>Choose Category</source>
+        <target>Выберите категорию</target>
+        <note>Class = "UIButton"; normalTitle = "Choose Category"; ObjectID = "QiH-eD-X7x";</note>
+      </trans-unit>
+      <trans-unit id="RUv-CD-b1Q.text">
+        <source>Description</source>
+        <target>Описание</target>
+        <note>Class = "UILabel"; text = "Description"; ObjectID = "RUv-CD-b1Q";</note>
+      </trans-unit>
+      <trans-unit id="Utc-fu-Zag.title">
+        <source>Meets</source>
+        <target>Встречи</target>
+        <note>Class = "UITabBarItem"; title = "Meets"; ObjectID = "Utc-fu-Zag";</note>
+      </trans-unit>
+      <trans-unit id="Zp6-K4-qBV.normalTitle">
+        <source>Cancel</source>
+        <target>Отменить</target>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Zp6-K4-qBV";</note>
+      </trans-unit>
+      <trans-unit id="al1-k6-Bcd.title">
+        <source>Meets</source>
+        <target>Встречи</target>
+        <note>Class = "UINavigationItem"; title = "Meets"; ObjectID = "al1-k6-Bcd";</note>
+      </trans-unit>
+      <trans-unit id="bNR-5E-RHz.text">
+        <source>Category</source>
+        <target>Категории</target>
+        <note>Class = "UILabel"; text = "Category"; ObjectID = "bNR-5E-RHz";</note>
+      </trans-unit>
+      <trans-unit id="eeS-HJ-u7f.text">
+        <source>Date</source>
+        <target>Дата и Время</target>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "eeS-HJ-u7f";</note>
+      </trans-unit>
+      <trans-unit id="ks3-bu-cKK.text">
+        <source>Name</source>
+        <target>Название</target>
+        <note>Class = "UILabel"; text = "Name"; ObjectID = "ks3-bu-cKK";</note>
+      </trans-unit>
+      <trans-unit id="oOf-Ei-r46.normalTitle">
+        <source>Button</source>
+        <target>Отменить</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "oOf-Ei-r46";</note>
+      </trans-unit>
+      <trans-unit id="qdN-LR-qod.text">
+        <source>Input is Free?</source>
+        <target>Вход свободный?</target>
+        <note>Class = "UILabel"; text = "Input is Free?"; ObjectID = "qdN-LR-qod";</note>
+      </trans-unit>
+      <trans-unit id="rP5-9T-tLz.title">
+        <source>Category</source>
+        <target>Категории</target>
+        <note>Class = "UITabBarItem"; title = "Category"; ObjectID = "rP5-9T-tLz";</note>
+      </trans-unit>
+      <trans-unit id="rSw-XJ-oEu.normalTitle">
+        <source>Choose Category</source>
+        <target>Выберите категорию</target>
+        <note>Class = "UIButton"; normalTitle = "Choose Category"; ObjectID = "rSw-XJ-oEu";</note>
+      </trans-unit>
+      <trans-unit id="wsh-z2-43w.text">
+        <source>Input is Free?</source>
+        <target>Вход свободный?</target>
+        <note>Class = "UILabel"; text = "Input is Free?"; ObjectID = "wsh-z2-43w";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MyLr22/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MyLr22/Localizable.strings" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+    </header>
+    <body>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Отменить</target>
+        <note>Cancel Field</note>
+      </trans-unit>
+      <trans-unit id="Category">
+        <source>Category</source>
+        <target>Введите название новой категории</target>
+        <note>Category Field</note>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>Удалить</target>
+        <note>Delete Field</note>
+      </trans-unit>
+      <trans-unit id="New Category">
+        <source>New Category</source>
+        <target>Новая категория</target>
+        <note>New Category Field</note>
+      </trans-unit>
+      <trans-unit id="Nothing">
+        <source>Nothing</source>
+        <target>Не выбрана</target>
+        <note>Nothing Field</note>
+      </trans-unit>
+      <trans-unit id="Update">
+        <source>Update</source>
+        <target>Изменить</target>
+        <note>Update Field</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

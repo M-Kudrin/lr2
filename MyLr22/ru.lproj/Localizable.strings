@@ -1,0 +1,18 @@
+/* Cancel Field */
+"Cancel" = "Отменить";
+
+/* Category Field */
+"Category" = "Введите название новой категории";
+
+/* Delete Field */
+"Delete" = "Удалить";
+
+/* New Category Field */
+"New Category" = "Новая категория";
+
+/* Nothing Field */
+"Nothing" = "Категория не выбрана";
+
+/* Update Field */
+"Update" = "Изменить";
+
